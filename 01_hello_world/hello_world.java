@@ -16,6 +16,11 @@ Ex. "A","Mark","Hello World!","ofejrfjesfriflesjnrf"
    // int num=5;//Just made variable
    System.out.println(a);//sout then press "tab" = shortcut
    System.out.println ("hello"); //hello
-
+   System.out.println(""); // nothing
+   System.out.println("4"); // 4
+   System.out.println(4); // 4
+   System.out.println("12+3"); // 12+3
+   System.out.println(12+3); // 15
+   }
 }
 
